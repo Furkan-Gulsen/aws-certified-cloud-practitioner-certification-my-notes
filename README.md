@@ -89,7 +89,7 @@ An *instance store* provides temporary block-level storage for your instance. 
 ### Spot instance
 
 - Interruptions are possible
-- %90 discount
+- 90% discount
 
 ### Dedicated host
 
