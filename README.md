@@ -1110,17 +1110,17 @@ AWS customers are allowed to carry out security assessments and penetration test
 
 ![img15](./images/img15.png)
 
-### **IaaS (Infrastructure as a Service)**
+### **IaaS (Infrastructure as a Service)** For admins
 
 - Provides access to basic computing resources over the internet.
 - Example AWS Services: EC2, Amazon S3, VPC.
 
-### **PaaS (Platform as a Service)**
+### **PaaS (Platform as a Service)** For developers 
 
 - Provides a platform that allows developers to create, distribute and run their applications.
 - Example AWS Services: AWS Elastic Beanstalk, AWS App Runner, AWS OpsWorks.
 
-### **SaaS (Software as a Service)**
+### **SaaS (Software as a Service)** For customers
 
 - Completed applications delivered to users over the Internet and typically accessed through a web browser.
 - Example AWS Services: Amazon Chime, AWS WorkDocs, Amazon Connect.
